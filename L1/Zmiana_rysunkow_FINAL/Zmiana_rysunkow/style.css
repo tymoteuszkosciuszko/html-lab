@@ -1,0 +1,40 @@
+﻿body {
+    background-color: white;
+}
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+#grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    padding-bottom: 10px;
+}
+#flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blue-bar {
+    background-color: blue;
+    height: 10px;
+    margin: 10px 0;
+}
+
+.gray-bar {
+    background-color: gray;
+    height: 3px;
+    margin: 10px 0;
+}
+.counter{
+    font-size: 5vmin;
+    color: red;
+}

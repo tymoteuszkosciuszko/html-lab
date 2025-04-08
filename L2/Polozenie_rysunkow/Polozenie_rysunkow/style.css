@@ -1,0 +1,40 @@
+﻿body {
+    background-color: white;
+    height: 60%;
+}
+#container{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#grid-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 90%;
+    height: 60vh;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+.text {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: blue;
+}
+.border {
+    border: 1px dotted #333;
+}

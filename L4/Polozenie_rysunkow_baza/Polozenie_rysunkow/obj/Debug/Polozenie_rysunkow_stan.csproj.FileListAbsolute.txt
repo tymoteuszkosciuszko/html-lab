@@ -1,0 +1,177 @@
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll.config
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.pdb
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe.config
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.rsp
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe.config
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.rsp
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.AppContext.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Console.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Http.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe.config
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.rsp
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.AssemblyReference.cache
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.CoreCompileInputs.cache
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozeni.26C1BBF6.Up2Date
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.dll
+C:\Users\Tymek\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.pdb
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll.config
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.pdb
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe.config
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.rsp
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe.config
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.rsp
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.AppContext.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Console.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Http.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.ValueTuple.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe.config
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.rsp
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.AssemblyReference.cache
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.CoreCompileInputs.cache
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozeni.26C1BBF6.Up2Date
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.dll
+C:\Users\tmq\Documents\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.pdb
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll.config
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Polozenie_rysunkow_stan.pdb
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.exe.config
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csc.rsp
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.exe.config
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\csi.rsp
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.AppContext.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Console.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Http.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.exe.config
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\vbc.rsp
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.AssemblyReference.cache
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.csproj.CoreCompileInputs.cache
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozeni.26C1BBF6.Up2Date
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.dll
+C:\Users\Tymek\Documents\HTML Lab 4\Polozenie_rysunkow_stan_FINAL\Polozenie_rysunkow_stan\Polozenie_rysunkow\obj\Debug\Polozenie_rysunkow_stan.pdb

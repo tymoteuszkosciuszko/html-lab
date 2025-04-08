@@ -1,0 +1,77 @@
+﻿body {
+    background-color: white;
+    height: 60%;
+}
+
+#main-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.container {
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.box{
+    width: 100%;
+}
+.registration {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 15px;
+    background-color: rgb(0,204,153);
+    padding: 40px;
+    text-align: center;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 90%;
+    height: 60vh;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 10px;
+}
+
+.text {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: blue;
+}
+
+.border {
+    border: 1px dotted #333;
+}
+
+.userpanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.details-view {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: auto;
+    white-space: nowrap;
+}
